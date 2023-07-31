@@ -14,5 +14,5 @@ Team member : 🛠-Papangkorn Nirawatsuwan  🛠-Auttanon Jakkawarn 🛠-Norapro
   This documentation aims to provide an in-depth account of our robot's design, the techniques employed for color detection, algorithm development, and the challenges faced and overcome during our preparation. Additionally, we share insights into the future improvements we envision, driving us to strive for continuous innovation and excellence in the field of robotics.
 
   We hope that this documentation not only serves as a testament to our hard work and determination but also inspires fellow robotics enthusiasts and future competitors. The WRO has been a transformative experience for us, fostering our passion for robotics, teamwork, and the pursuit of knowledge. We extend our gratitude to all who supported us throughout this journey, and we hope you find this documentation both informative and inspiring. Let's embark on this exhilarating journey together, exploring the realm of robotics and the incredible possibilities it offers.
-
+# 🏢 1.Working Process 👨🏼‍💼
 
