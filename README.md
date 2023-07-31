@@ -22,7 +22,7 @@ Team member : 🛠-Papangkorn Nirawatsuwan  🛠-Auttanon Jakkawarn 🛠-Norapro
   
 - **Week 3-4: Code Implementation and Testing**
 
-- With the robot structure in place, we delved into the coding phase. Our primary focus was on ensuring the robot could run smoothly and execute basic movements. We integrated the motor control and sensor interfaces and started writing the initial lines of code. As we encountered challenges, we iteratively tested and debugged the code to ensure reliability and stability.
+  With the robot structure in place, we delved into the coding phase. Our primary focus was on ensuring the robot could run smoothly and execute basic movements. We integrated the motor control and sensor interfaces and started writing the initial lines of code. As we encountered challenges, we iteratively tested and debugged the code to ensure reliability and stability.
   
 - **Week 5-6: Color Detection Algorithm Development**
 
