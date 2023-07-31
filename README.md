@@ -32,3 +32,18 @@ Team member : 🛠-Papangkorn Nirawatsuwan  🛠-Auttanon Jakkawarn 🛠-Norapro
 - **Week 7-8: Documentation and Preparing for the Competition**
   
   To document our progress and efforts, we worked on comprehensive documentation describing our robot's design, algorithm, and development process. This documentation served as a record of our journey and also provided insights into our problem-solving approach.
+
+### ➡Practice and Learning: Continuous Improvement
+
+Throughout the entire process, we practiced and rehearsed with our robot regularly. We aimed to solve immediate problems, refine our coding techniques, and optimize the robot's performance. Every challenge we encountered was an opportunity for learning and growth.
+
+### ➡Final Preparations: The Road to WRO
+
+In the weeks leading up to the competition, we intensified our practice sessions and participated in mock competitions to simulate the real event. These practice sessions allowed us to fine-tune our strategies, calibrate the robot, and gain confidence in its capabilities.
+
+### ➡Competition Week: Putting Our Best Foot Forward
+
+As the WRO competition week approached, we were well-prepared and determined to give our best performance. We had meticulously tested and validated our robot's color detection, navigation, and gyroscopic stabilization. Our hard work and dedication culminated in a robot that was ready to face the challenges of the competition.
+
+Our journey to the WRO competition taught us the importance of teamwork, perseverance, and continuous improvement. Each step in our working process contributed to the success of our robot and made the entire experience memorable and rewarding. We were proud of our accomplishments and looked forward to showcasing our robot's capabilities at the prestigious WRO competition.
+
