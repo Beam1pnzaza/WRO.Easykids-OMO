@@ -81,8 +81,8 @@ Using a camera with OpenCV for color detection provides additional capabilities 
 - **(4)__Versatility:**
   Using a camera with OpenCV opens up a world of possibilities beyond color detection. The robot can perform various computer vision tasks, such as pattern recognition, image filtering, and edge detection, which may be beneficial for certain WRO challenges.
 
-### ➡Camera with OpenCV:
-Using a camera with OpenCV for color detection provides additional capabilities and flexibility compared to an RGB sensor. OpenCV is an open-source computer vision and image processing library that allows robots to process visual information from a camera. Here are the advantages of using a camera with OpenCV:
+### ➡We finally made a choice to choose camera with open cv:
+Considering the advantages of both options, the camera with OpenCV emerges as the more advantageous choice for several reasons:
 
 - **(1)__Real-Time Processing:**	
 In fast-paced competitions like WRO, real-time processing is crucial. The camera with OpenCV provides faster and more sophisticated color processing, enabling the robot to make more informed decisions in real-time.
