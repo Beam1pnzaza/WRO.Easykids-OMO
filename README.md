@@ -16,7 +16,7 @@ Team member : 🛠-Papangkorn Nirawatsuwan  🛠-Auttanon Jakkawarn 🛠-Norapro
   We hope that this documentation not only serves as a testament to our hard work and determination but also inspires fellow robotics enthusiasts and future competitors. The WRO has been a transformative experience for us, fostering our passion for robotics, teamwork, and the pursuit of knowledge. We extend our gratitude to all who supported us throughout this journey, and we hope you find this documentation both informative and inspiring. Let's embark on this exhilarating journey together, exploring the realm of robotics and the incredible possibilities it offers.
 #
 ## 🏢 1.Working Process 👨🏼‍💼
-
+Our journey to the World Robot Olympiad (WRO) competition was an exciting and challenging experience. As a team, we invested dedicated effort and time into the development and preparation of our robot. Here is a summary of our working process leading up to the competition:
 - **Week 1-2: Designing the Robot Structure**
 
   We began our journey by brainstorming and designing the structure of our robot. Our main objectives were to create a compact and stable robot capable of maneuvering through various terrains and obstacles in the WRO competition. After careful consideration, we finalized the design and started gathering the required components.
