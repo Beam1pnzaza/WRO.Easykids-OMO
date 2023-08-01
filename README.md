@@ -69,6 +69,8 @@ An RGB sensor is specifically designed to detect and differentiate colors. It co
 - **(3)__Compact and Lightweight:**
  RGB sensors are often compact and lightweight, which is essential for mobile robots like those used in WRO competitions. The sensor's size and weight won't impede the robot's movement or agility.
 
+![GY-31](https://github.com/Beam1pnzaza/WRO.Easykids-OMO/assets/86812911/cd981931-911f-4a86-a269-eb895a152888)
+
 ### ▶️Camera with OpenCV:
 Using a camera with OpenCV for color detection provides additional capabilities and flexibility compared to an RGB sensor. OpenCV is an open-source computer vision and image processing library that allows robots to process visual information from a camera. Here are the advantages of using a camera with OpenCV:
 
@@ -80,6 +82,8 @@ Using a camera with OpenCV for color detection provides additional capabilities 
   With a camera and OpenCV, you can go beyond simple color detection and implement more complex object detection algorithms. This allows the robot to recognize and interact with specific objects or shapes in the environment, such as detecting and avoiding obstacles like cones.
 - **(4)__Versatility:**
   Using a camera with OpenCV opens up a world of possibilities beyond color detection. The robot can perform various computer vision tasks, such as pattern recognition, image filtering, and edge detection, which may be beneficial for certain WRO challenges.
+
+![images](https://github.com/Beam1pnzaza/WRO.Easykids-OMO/assets/86812911/afb9d175-7f5a-434c-bb8e-b494b190aa99)
 
 ### ➡We finally made a choice to choose camera with open cv:
 Considering the advantages of both options, the camera with OpenCV emerges as the more advantageous choice for several reasons:
