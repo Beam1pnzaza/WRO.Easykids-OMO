@@ -148,3 +148,20 @@ Our algorithm focuses on achieving stable and efficient control for our robot in
 ![1  Color Detection using HSV](https://github.com/Beam1pnzaza/WRO.Easykids-OMO/assets/86812911/4bac3af5-2a08-418d-ae6f-bb16a446b702)
 
 **In conclusion, our Algorithm Development of Code combines color detection using HSV values and gyroscopic stabilization to achieve stable and efficient robotics control. This approach allows our robot to navigate accurately and make informed decisions, enhancing its performance in the WRO competition.**
+
+#
+## 7. Finding Problems, Making Solutions and Testing
+
+Throughout the development process of our robot for the WRO competition, we encountered various challenges and obstacles that required careful analysis and problem-solving. In the initial stages of designing the robot's structure and code, we faced issues related to stability and accuracy. The small and stable design we aimed for initially required precise calibration of the sensors and actuators to ensure smooth movement and reliable color detection. During weeks 1 to 2, we focused on addressing these concerns by revising the robot's physical structure and fine-tuning the code to optimize performance.
+
+As we progressed to weeks 3 and 4, our attention shifted to refining the color detection algorithm. The initial HSV values obtained through the camera were not precise enough to accurately detect the desired colors. To tackle this problem, we developed an iterative process involving the second code with slide bars. By adjusting the HSV values, we fine-tuned the color detection until only the desired colors remained, ensuring the robot's ability to recognize cones accurately.
+
+Once we achieved satisfactory color detection, we moved on to week 5 and 6, where rigorous testing played a crucial role. We conducted extensive testing to evaluate the robot's performance in various environments, lighting conditions, and distances from the cones. The testing involved placing cones at different positions and angles to simulate real-world scenarios. Through this process, we identified further challenges related to lighting variations and calibration inconsistencies.
+
+To address these challenges, we continued to make improvements to the code and calibration parameters, making sure the robot could adapt to different lighting conditions and maintain accuracy. Additionally, we optimized the robot's movement using the gyroscope, enabling fast and stable turns, critical for efficiently navigating the competition arena.
+
+Throughout the iterative process of finding problems and making solutions, testing played a pivotal role. Week 7 and 8 were dedicated to documenting the testing procedures, test results, and the solutions implemented. We used performance metrics to quantitatively evaluate the robot's color detection accuracy and motion control efficiency.
+
+As we neared the competition, we further practiced and fine-tuned the robot's capabilities. The continuous testing and refinement allowed us to gain confidence in our robot's performance and optimize its color detection and motion control.
+
+**In conclusion, the process of finding problems, making solutions, and rigorous testing allowed us to create a robust and reliable robot for the WRO competition. The combination of iterative problem-solving, continuous improvement, and extensive testing has been instrumental in enhancing our robot's abilities and ensuring its readiness for the competition.**
