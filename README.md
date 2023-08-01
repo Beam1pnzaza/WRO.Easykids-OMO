@@ -91,6 +91,8 @@ In fast-paced competitions like WRO, real-time processing is crucial. The camera
 - **(3)__Versatility for Future Challenges:**
  Using OpenCV and a camera provides versatility for future challenges beyond WRO. My team can explore various computer vision tasks and expand the robot's capabilities in other robotics projects.
 
+![Screenshot 2023-08-01 140550](https://github.com/Beam1pnzaza/WRO.Easykids-OMO/assets/86812911/36ed7229-6d0f-4f47-8332-ed26ae4c6656)
+
 **In conclusion, while an RGB sensor has its advantages, the camera with OpenCV offers superior performance, real-time processing, and more advanced color range and object detection capabilities. These factors make it the better choice for color detection in your WRO robot, giving my team a competitive edge in the competition and setting the stage for future robotics endeavors.**
-![Screenshot_2023-08-01_110051-removebg-preview](https://github.com/Beam1pnzaza/WRO.Easykids-OMO/assets/86812911/061ce6a1-8cbe-48dc-808f-c45b99cb54ef)
+
 
