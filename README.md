@@ -131,3 +131,7 @@ Once the operator achieves an optimal HSV range that accurately detects the desi
 ![Screenshot 2023-08-01 150627](https://github.com/Beam1pnzaza/WRO.Easykids-OMO/assets/86812911/9117b454-a5c2-4952-9235-0ef24d3c305f)
 
 **In conclusion, the two-step technique of obtaining initial HSV values and fine-tuning them through thresholding empowers our robot with accurate and adaptable color recognition capabilities. By customizing the color detection process to the specific environment and adjusting it in real-time, our robot can reliably identify the desired color, making informed decisions and executing tasks effectively in diverse scenarios. The combination of initial HSV values and fine-tuning ensures that our robot remains versatile and responsive to changes, allowing it to excel in a wide range of applications where accurate color detection is essential.**
+
+#
+## 6.Algorithm Development 
+Our algorithm focuses on achieving stable and efficient control for our robot in the World Robot Olympiad (WRO) competition. The key components of our algorithm are color detection using HSV (Hue, Saturation, Value) values and gyroscopic stabilization. By combining these elements, our robot can navigate with precision and stability. 
