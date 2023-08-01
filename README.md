@@ -100,4 +100,10 @@ In fast-paced competitions like WRO, real-time processing is crucial. The camera
 In the field of robotics, color detection plays a crucial role in various applications, such as object recognition, obstacle avoidance, and path planning. One popular method for color detection is using the Hue, Saturation, and Value (HSV) color space. This technique offers several advantages over other color spaces, making it a popular choice for many robotic applications. Additionally, using thresholding with HSV values allows for more accurate color detection, enabling robots to make precise decisions based on the detected colors.
 ### ➡HSV Color Space: 
 HSV is a color space that represents colors in terms of their human perception, making it more intuitive and easier to work with than the RGB color space. It consists of three components:
-- **Hue (H):**	Represents the color's dominant wavelength and is often visualized as a color wheel, ranging from 0 to 360 degrees. It allows for easy identification of different colors without considering their brightness or intensity.
+- **【﻿Ｈ】_(Hue):**	Represents the color's dominant wavelength and is often visualized as a color wheel, ranging from 0 to 360 degrees. It allows for easy identification of different colors without considering their brightness or intensity.
+- **【﻿Ｓ】_(Saturation):** Indicates the purity of the color, with 0 representing grayscale and 1 representing the most vibrant color. Saturation controls the amount of white light mixed with the color, affecting its intensity.
+- **【﻿Ｖ】_(Value):** Represents the brightness of the color, with 0 being black and 1 being the brightest possible color. It determines how light or dark the color appears.
+
+  ![HSV Graph](https://github.com/Beam1pnzaza/WRO.Easykids-OMO/assets/86812911/f8efcf23-75eb-43d5-963e-8cf863487526)
+
+  **HSV is particularly advantageous in robotics because it separates the color information from brightness, making it more robust in varying lighting conditions.**
