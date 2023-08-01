@@ -164,4 +164,14 @@ Throughout the iterative process of finding problems and making solutions, testi
 
 As we neared the competition, we further practiced and fine-tuned the robot's capabilities. The continuous testing and refinement allowed us to gain confidence in our robot's performance and optimize its color detection and motion control.
 
+![problem-solving](https://github.com/Beam1pnzaza/WRO.Easykids-OMO/assets/86812911/aed58c91-6032-4b61-a726-1048afada548)
+
 **In conclusion, the process of finding problems, making solutions, and rigorous testing allowed us to create a robust and reliable robot for the WRO competition. The combination of iterative problem-solving, continuous improvement, and extensive testing has been instrumental in enhancing our robot's abilities and ensuring its readiness for the competition.**
+
+#
+## 8.Challenges and Lessons Learned:
+The journey of developing a robot for the WRO competition was filled with a myriad of challenges, but each obstacle served as a valuable learning opportunity for our team. In this section, we will delve into the challenges we encountered and the valuable lessons we gained throughout the development process.
+- **(1)__Color Detection using HSV:** We start by obtaining the initial HSV values for color detection. Through the robot's camera, we enable the user to select the desired color by clicking on it. The algorithm then prints the corresponding HSV values, which serve as the basis for further processing.
+- **(2)__Fine-Tuning HSV Values with Thresholding:** To improve color detection accuracy, we implement a second code with a slider interface. We take the initial HSV values obtained from the first step and adjust them using the sliders. The goal is to find the optimal HSV range that isolates the desired color accurately under different lighting conditions.
+- **(3)__Gyroscopic Stabilization:** We integrate a gyroscope with our robot to achieve stability during turns and movements. The gyroscope provides real-time data on the robot's angular velocity, enabling us to maintain balance during high-speed maneuvers.
+- **(4)__Turn and Drive Algorithm:** Based on the fine-tuned HSV values, we implement a while loop to control the robot's movements. When the robot detects the desired color within the HSV range, the algorithm dictates the appropriate action – whether to turn left, turn right, drive forward, or stop.
