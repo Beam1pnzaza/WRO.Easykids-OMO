@@ -1,6 +1,6 @@
 # Team Easykids-OMO 
-**Team member**  : 🛠-Papangkorn Nirawatsuwan  🛠-Auttanon Jakkawarn 🛠-Noraprot Aunnahajak
-
+### **Team member**  : 🛠-Papangkorn Nirawatsuwan  🛠-Auttanon Jakkawarn 🛠-Noraprot Aunnahajak
+#
   *Welcome to the documentation of Team Easykids-OMO's remarkable journey in the prestigious World Robot Olympiad 2023 (WRO). This document is a testament to the dedication, creativity, and ingenuity displayed by us, throughout this exciting and challenging competition.*
 
 *The WRO provided a unique platform for young robotics enthusiasts like us to showcase our skills, teamwork, and problem-solving abilities. As part of this extraordinary event, we set out to design and build a robot capable of overcoming various obstacles, detecting colors, recognizing objects, and making critical decisions in real-time.*
