@@ -112,3 +112,18 @@ HSV is a color space that represents colors in terms of their human perception, 
 In the first step of our color detection technique, we utilize the robot's camera along with OpenCV or a similar image processing library to obtain the initial HSV (Hue, Saturation, Value) values for the desired color. The process begins with the operator aiming the camera at the object or color they want the robot to detect. With a simple click on that specific color in the camera's view, the first code extracts the corresponding HSV values of the clicked pixel. These values are then displayed on the screen, providing crucial information about the color we want the robot to identify.
 
 By obtaining the initial HSV values directly from the real-world environment, we ensure that the robot's color detection is tailored to the specific conditions and lighting present at the time of calibration. This step allows for customization of the color range and sets the foundation for accurate color detection in subsequent stages.
+
+![Screenshot 2023-08-01 145657](https://github.com/Beam1pnzaza/WRO.Easykids-OMO/assets/86812911/31fc710f-22d4-4542-8c39-61e1cfcebd93)
+
+### ▶️ Step 2: Fine-Tuning HSV Values with Thresholding
+The second step in our color detection technique involves fine-tuning the initially obtained HSV values to optimize the detection accuracy. To achieve this, we implement a user interface that displays the live camera feed along with adjustable slide bars representing the HSV thresholds. The operator can now iteratively adjust these slide bars to modify the HSV range and fine-tune the color detection process.
+
+With the camera feed being displayed, the operator observes the results of the color detection and makes incremental adjustments to the HSV values using the slide bars. The objective is to refine the color detection threshold to precisely isolate the desired color while minimizing false detections of similar hues or background noise.
+
+Through this iterative process, the operator can visually assess the detection performance and dynamically adapt the HSV values to cater to different lighting conditions or variations in the color's appearance. This level of customization ensures robust and reliable color detection even in challenging environments.
+
+Once the operator achieves an optimal HSV range that accurately detects the desired color, the fine-tuned HSV values are saved. These refined HSV thresholds will be used in the robot's while loop to continuously process the camera feed, enabling real-time color detection during the robot's operation
+
+![Screenshot 2023-08-01 150627](https://github.com/Beam1pnzaza/WRO.Easykids-OMO/assets/86812911/9117b454-a5c2-4952-9235-0ef24d3c305f)
+
+**In conclusion, the two-step technique of obtaining initial HSV values and fine-tuning them through thresholding empowers our robot with accurate and adaptable color recognition capabilities. By customizing the color detection process to the specific environment and adjusting it in real-time, our robot can reliably identify the desired color, making informed decisions and executing tasks effectively in diverse scenarios. The combination of initial HSV values and fine-tuning ensures that our robot remains versatile and responsive to changes, allowing it to excel in a wide range of applications where accurate color detection is essential.**
