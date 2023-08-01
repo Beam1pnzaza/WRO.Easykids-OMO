@@ -59,7 +59,7 @@ Through the fusion of advanced motor control, real-time image processing with Op
 #
 ## 🚦4. Selection Color Sensor🌈
 Choosing the right sensor for color detection in a robotics competition like the World Robot Olympiad (WRO) is a critical decision that can significantly impact the robot's performance and success. In this case, my team has two options: an RGB sensor and a camera with OpenCV. Both options have their strengths and weaknesses, and it's essential to weigh them carefully before making a final decision.
-### RGB Sensor : 
+### ▶️RGB Sensor : 
 An RGB sensor is specifically designed to detect and differentiate colors. It consists of three individual sensors that measure the intensity of red, green, and blue light in the environment. By combining the readings from these sensors, the RGB sensor can determine the color of an object. Here are some key advantages of using an RGB sensor:
 
 - **(1)__Color Detection:**	
@@ -69,7 +69,7 @@ An RGB sensor is specifically designed to detect and differentiate colors. It co
 - **(3)__Compact and Lightweight:**
  RGB sensors are often compact and lightweight, which is essential for mobile robots like those used in WRO competitions. The sensor's size and weight won't impede the robot's movement or agility.
 
-### Camera with OpenCV:
+### ▶️Camera with OpenCV:
 Using a camera with OpenCV for color detection provides additional capabilities and flexibility compared to an RGB sensor. OpenCV is an open-source computer vision and image processing library that allows robots to process visual information from a camera. Here are the advantages of using a camera with OpenCV:
 
 - **(1)__Real-Time Processing:**	
@@ -107,3 +107,8 @@ HSV is a color space that represents colors in terms of their human perception, 
   ![HSV Graph](https://github.com/Beam1pnzaza/WRO.Easykids-OMO/assets/86812911/f8efcf23-75eb-43d5-963e-8cf863487526)
 
   **HSV is particularly advantageous in robotics because it separates the color information from brightness, making it more robust in varying lighting conditions.**
+  
+### ▶️ Step 1: Obtaining Initial HSV Values
+In the first step of our color detection technique, we utilize the robot's camera along with OpenCV or a similar image processing library to obtain the initial HSV (Hue, Saturation, Value) values for the desired color. The process begins with the operator aiming the camera at the object or color they want the robot to detect. With a simple click on that specific color in the camera's view, the first code extracts the corresponding HSV values of the clicked pixel. These values are then displayed on the screen, providing crucial information about the color we want the robot to identify.
+
+By obtaining the initial HSV values directly from the real-world environment, we ensure that the robot's color detection is tailored to the specific conditions and lighting present at the time of calibration. This step allows for customization of the color range and sets the foundation for accurate color detection in subsequent stages.
