@@ -50,7 +50,7 @@ Our journey to the WRO competition taught us the importance of teamwork, perseve
  #
  ## 🏠 2.Structure 🔨
  
-![359306058_3242435056057925_7084391019301455378_n](https://github.com/Beam1pnzaza/WRO.Easykids-OMO/assets/86812911/fcb24da5-3ade-4e72-ba0c-0cdbd4bbaee5)
+![359306058_3242435056057925_7084391019301455378_n](https://github.com/Beam1pnzaza/WRO.Easykids-OMO/assets/86812911/23ee1806-3a45-4bb3-aae9-cb2754b1068b)
 
  #
  ## 🤖3.How Robot Work 👷
