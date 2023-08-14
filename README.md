@@ -17,19 +17,19 @@
 #
 ## 🏢 1.Working Process 👨🏼‍💼
 Our journey to the World Robot Olympiad (WRO) competition was an exciting and challenging experience. As a team, we invested dedicated effort and time into the development and preparation of our robot. Here is a summary of our working process leading up to the competition:
-- **Week 1-2: Designing the Robot Structure**
+- **Phase 1: Designing the Robot Structure**
 
   We began our journey by brainstorming and designing the structure of our robot. Our main objectives were to create a compact and stable robot capable of maneuvering through various terrains and obstacles in the WRO competition. After careful consideration, we finalized the design and started gathering the required components.
   
-- **Week 3-4: Code Implementation and Testing**
+- **Phase 2: Code Implementation and Testing**
 
   With the robot structure in place, we delved into the coding phase. Our primary focus was on ensuring the robot could run smoothly and execute basic movements. We integrated the motor control and sensor interfaces and started writing the initial lines of code. As we encountered challenges, we iteratively tested and debugged the code to ensure reliability and stability.
   
-- **Week 5-6: Color Detection Algorithm Development**
+- **Phase 3: Color Detection Algorithm Development**
 
   As color detection was a crucial aspect of the WRO competition, we dedicated specific weeks to develop the HSV-based color detection algorithm. The first step was obtaining the initial HSV values for color detection. We allowed the user to interactively select the desired color through the robot's camera, and the algorithm printed the corresponding HSV values. We then implemented a fine-tuning process using thresholding to achieve precise color detection.
   
-- **Week 7-8: Documentation and Preparing for the Competition**
+- **Phase 4: Documentation and Preparing for the Competition**
   
   To document our progress and efforts, we worked on comprehensive documentation describing our robot's design, algorithm, and development process. This documentation served as a record of our journey and also provided insights into our problem-solving approach.
 
