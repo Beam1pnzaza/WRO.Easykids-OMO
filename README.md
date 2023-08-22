@@ -3,7 +3,7 @@
 ### **Team member :**  
 **------------🛠1-Papangkorn Nirawatsuwan---------------🛠2-Auttanon Jakkawarn--------------------🛠3-Noraprot Aunnahajak---------------**
 
-![welcome (1)](https://github.com/Beam1pnzaza/WRO.Easykids-OMO/assets/86812911/69148032-6f1a-46fd-9a52-606b9a6c6a7f)
+![367930913_820224116414765_2923383908170852393_n-removebg-preview](https://github.com/Beam1pnzaza/WRO.Easykids-OMO/assets/86812911/84b93f68-f98e-4bb7-be68-1e79328a1f72)
 
 #
   *Welcome to the documentation of Team Easykids-OMO's remarkable journey in the prestigious World Robot Olympiad 2023 (WRO). This document is a testament to the dedication, creativity, and ingenuity displayed by us throughout this exciting and challenging competition.*
