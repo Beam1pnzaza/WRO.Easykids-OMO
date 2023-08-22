@@ -60,11 +60,8 @@ The robot operates through a sophisticated program that harnesses the capabiliti
 
 ### ⚡Electric Curcuit : 
 The robot's electric circuit serves as its power and control hub, functioning like both its brain and heart. It's guided by a CPU, sending signals to different parts for movement and precision turning.
-
 Think of the circuit as a team of workers. The CPU is the boss, batteries provide energy, motors enable motion, and a sensor prevents collisions.
-
 The circuit also features software for color and shape recognition.
-
 These parts connect with wires and safety features. In essence, the electric circuit makes the robot smart, robust, and primed for challenges in the World Robot Olympiad.
 #
 ## 🚦4. Selection Color Sensor🌈
