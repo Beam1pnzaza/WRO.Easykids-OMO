@@ -58,14 +58,14 @@ The robot operates through a sophisticated program that harnesses the capabiliti
 
 ![Distance Detection](https://github.com/Beam1pnzaza/WRO.Easykids-OMO/assets/86812911/c47919d8-548b-40bb-b00c-df546a4f44dc)
 
-### ⚡Electric Curcuit : l
-The robot's electric circuit is like its power and control system. It's like the robot's brain and heart combined. The circuit includes a special computer (CPU) that sends signals to different parts of the robot. These signals make the robot's wheels move and help it turn accurately.
+### ⚡Electric Curcuit : 
+The robot's electric circuit serves as its power and control hub, functioning like both its brain and heart. It's guided by a CPU, sending signals to different parts for movement and precision turning.
 
-Imagine the circuit as a team of workers. The CPU is the boss, telling everyone what to do. The rechargeable battery gives the robot the energy it needs to work. There are special motors that make the robot move and turn just right. And there's a cool sensor that helps the robot see how far things are, so it doesn't bump into stuff.
+Think of the circuit as a team of workers. The CPU is the boss, batteries provide energy, motors enable motion, and a sensor prevents collisions.
 
-The circuit also has a super helper called a gyroscope. It helps the robot stay steady when it turns. And there's a clever library called OpenCV that helps the robot understand colors and shapes, like seeing lines on the ground and reading signs.
+The circuit also features software for color and shape recognition.
 
-All the parts are connected with wires and special parts that keep things safe. So, the electric circuit is like the secret ingredient that makes the robot smart, strong, and ready to take on challenges in the World Robot Olympiad competition.
+These parts connect with wires and safety features. In essence, the electric circuit makes the robot smart, robust, and primed for challenges in the World Robot Olympiad.
 #
 ## 🚦4. Selection Color Sensor🌈
 Choosing the right sensor for color detection in a robotics competition like the World Robot Olympiad (WRO) is a critical decision that can significantly impact the robot's performance and success. In this case, my team has two options: an RGB sensor and a camera with OpenCV. Both options have their strengths and weaknesses, and it's essential to weigh them carefully before making a final decision.
