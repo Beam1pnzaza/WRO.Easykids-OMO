@@ -54,7 +54,9 @@ Our journey to the WRO competition taught us the importance of teamwork, perseve
 
  #
  ## 🏠 2.Structure 🔨
- 
+ Our robot's structure is a testament to innovation and functionality. Crafted with precision, it employs 3D printing for intricate components, ensuring a tailored and robust framework. To enhance stability, spacer solids are strategically integrated, reinforcing key points for optimal balance during movement.
+
+Additionally, select solid parts are strategically employed to balance durability and weight considerations. This meticulous blend of 3D printed elements, spacer solids, and well-placed solid parts results in a lightweight yet sturdy structure that embodies our commitment to meticulous engineering.
 ![359306058_3242435056057925_7084391019301455378_n](https://github.com/Beam1pnzaza/WRO.Easykids-OMO/assets/86812911/23ee1806-3a45-4bb3-aae9-cb2754b1068b)
 
  #
