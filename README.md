@@ -58,7 +58,7 @@ Our journey to the WRO competition taught us the importance of teamwork, perseve
 
 Additionally, select solid parts are strategically employed to balance durability and weight considerations. This meticulous blend of 3D printed elements, spacer solids, and well-placed solid parts results in a lightweight yet sturdy structure that embodies our commitment to meticulous engineering.
 
-![367938998_1524074668421617_1507817043742713979_n-removebg-preview](https://github.com/Beam1pnzaza/WRO.Easykids-Jigsaw/assets/86812911/8269e949-f546-4440-91d2-2655518ec7ec)
+![1  Color Detection using HSV (2)](https://github.com/Beam1pnzaza/WRO.Easykids-OMO/assets/86812911/8ac8db56-7ebc-4fc7-a51b-cc21fc92faba)
 
  #
  ## 🤖3.How Robot Work 👷
