@@ -1,9 +1,9 @@
 # Team Easykids-OMO 
-![logo_EasyKids_re2](https://github.com/Beam1pnzaza/WRO.Easykids-OMO/assets/86812911/69b41d62-23bd-4415-baf0-bb4b772216d2)
+![logo_EasyKids_re2](https://github.com/Beam1pnzaza/WRO.Easykids-OMO/assets/86812911/e7f93587-e5ba-4728-b23f-1a132cdfa971)
 ### **Team member :**  
 **------------🛠1-Papangkorn Nirawatsuwan---------------🛠2-Auttanon Jakkawarn--------------------🛠3-Noraprot Aunnahajak---------------**
 
-![welcome (1)](https://github.com/Beam1pnzaza/WRO.Easykids-OMO/assets/86812911/69148032-6f1a-46fd-9a52-606b9a6c6a7f)
+![welcome (1)](https://github.com/Beam1pnzaza/WRO.Easykids-OMO/assets/86812911/bc2946b0-0703-4266-b65a-ba81a23b1de3)
 
 #
   *Welcome to the documentation of Team Easykids-OMO's remarkable journey in the prestigious World Robot Olympiad 2023 (WRO). This document is a testament to the dedication, creativity, and ingenuity displayed by us throughout this exciting and challenging competition.*
@@ -58,21 +58,22 @@ Our journey to the WRO competition taught us the importance of teamwork, perseve
 
 Additionally, select solid parts are strategically employed to balance durability and weight considerations. This meticulous blend of 3D printed elements, spacer solids, and well-placed solid parts results in a lightweight yet sturdy structure that embodies our commitment to meticulous engineering.
 
-![1  Color Detection using HSV (2)](https://github.com/Beam1pnzaza/WRO.Easykids-OMO/assets/86812911/8ac8db56-7ebc-4fc7-a51b-cc21fc92faba)
+![1  Color Detection using HSV (2)](https://github.com/Beam1pnzaza/WRO.Easykids-OMO/assets/86812911/e8ad032d-b58b-4887-a89c-3054e56cb4cc)
+
 
  #
  ## 🤖3.How Robot Work 👷
 The robot operates through a sophisticated program that harnesses the capabilities of various sensors and technologies for enhanced navigation and performance. It incorporates DC motors for driving and servo motors for precise turns, while leveraging OpenCV for color detection. This enables the robot to not only detect the distance of the line but also identify specific colors like blue and orange, influencing its path and trajectory. The integration of an ultrasonic sensor adds another layer of functionality, allowing the robot to detect obstacles and edges with precision. 
 In a seamless fusion of motor control, real-time image processing, and ultrasonic detection, our robot adeptly navigates the competition arena. It responds promptly to traffic signs, executes quick adjustments when encountering obstacles, and consistently follows its designated path. This meticulously engineered program positions our robot as a formidable contender, poised to excel in the dynamic challenges of the World Robot Olympiad competition.
 
-![Distance Detection (1)](https://github.com/Beam1pnzaza/WRO.Easykids-OMO/assets/86812911/46123eec-d76c-432a-b813-151f54554489)
+![Distance Detection (1)](https://github.com/Beam1pnzaza/WRO.Easykids-OMO/assets/86812911/33877a33-d362-469c-8d46-dd4175f78c5f)
 
 ### ⚡Electric Curcuit : 
 The robot's electric circuit serves as its power and control hub, functioning like both its brain and heart. It's guided by a CPU, sending signals to different parts for movement and precision turning.
 Think of the circuit as a team of workers. The CPU is the boss, batteries provide energy, motors enable motion, and a sensor prevents collisions.
 The circuit also features software for color and shape recognition.
 These parts connect with wires and safety features. In essence, the electric circuit makes the robot smart, robust, and primed for challenges in the World Robot Olympiad.
-![367947293_676877004501462_5905190916775027126_n](https://github.com/Beam1pnzaza/WRO.Easykids-OMO/assets/86812911/676a0a80-1249-444d-a9e4-79c5b7153d33)
+![367947293_676877004501462_5905190916775027126_n](https://github.com/Beam1pnzaza/WRO.Easykids-OMO/assets/86812911/4568d7d8-6e1b-46cb-bb96-e54e3e38d3f5)
 
 #
 ## 🚦4. Selection Color Sensor🌈
@@ -87,7 +88,7 @@ An RGB sensor is specifically designed to detect and differentiate colors. It co
 - **(3)__Compact and Lightweight:**
  RGB sensors are often compact and lightweight, which is essential for mobile robots like those used in WRO competitions. The sensor's size and weight won't impede the robot's movement or agility.
 
-![GY-31](https://github.com/Beam1pnzaza/WRO.Easykids-OMO/assets/86812911/cd981931-911f-4a86-a269-eb895a152888)
+![2wv5kx](https://github.com/Beam1pnzaza/WRO.Easykids-OMO/assets/86812911/e931ca08-8916-479b-8ff0-b16fa8ab35b4)
 
 ### ▶️Camera with OpenCV:
 Using a camera with OpenCV for color detection provides additional capabilities and flexibility compared to an RGB sensor. OpenCV is an open-source computer vision and image processing library that allows robots to process visual information from a camera. Here are the advantages of using a camera with OpenCV:
@@ -101,7 +102,7 @@ Using a camera with OpenCV for color detection provides additional capabilities 
 - **(4)__Versatility:**
   Using a camera with OpenCV opens up a world of possibilities beyond color detection. The robot can perform various computer vision tasks, such as pattern recognition, image filtering, and edge detection, which may be beneficial for certain WRO challenges.
 
-![images](https://github.com/Beam1pnzaza/WRO.Easykids-OMO/assets/86812911/afb9d175-7f5a-434c-bb8e-b494b190aa99)
+![s8u1m2](https://github.com/Beam1pnzaza/WRO.Easykids-OMO/assets/86812911/6198e12a-df4e-4e6a-82a0-e3d1271ee80b)
 
 ### ➡We finally made a choice to choose camera with open cv:
 Considering the advantages of both options, the camera with OpenCV emerges as the more advantageous choice for several reasons:
@@ -113,7 +114,7 @@ In fast-paced competitions like WRO, real-time processing is crucial. The camera
 - **(3)__Versatility for Future Challenges:**
  Using OpenCV and a camera provides versatility for future challenges beyond WRO. My team can explore various computer vision tasks and expand the robot's capabilities in other robotics projects.
 
-![Screenshot 2023-08-01 140550](https://github.com/Beam1pnzaza/WRO.Easykids-OMO/assets/86812911/36ed7229-6d0f-4f47-8332-ed26ae4c6656)
+![Screenshot 2023-08-01 140550](https://github.com/Beam1pnzaza/WRO.Easykids-OMO/assets/86812911/f0a4aa7e-aa4f-4605-8e97-9998ff7505aa)
 
 **In conclusion, while an RGB sensor has its advantages, the camera with OpenCV offers superior performance, real-time processing, and more advanced color range and object detection capabilities. These factors make it the better choice for color detection in your WRO robot, giving my team a competitive edge in the competition and setting the stage for future robotics endeavors.**
 
@@ -126,7 +127,7 @@ HSV is a color space that represents colors in terms of their human perception, 
 - **【﻿Ｓ】_(Saturation):** Indicates the purity of the color, with 0 representing grayscale and 1 representing the most vibrant color. Saturation controls the amount of white light mixed with the color, affecting its intensity.
 - **【﻿Ｖ】_(Value):** Represents the brightness of the color, with 0 being black and 1 being the brightest possible color. It determines how light or dark the color appears.
 
-  ![HSV Graph](https://github.com/Beam1pnzaza/WRO.Easykids-OMO/assets/86812911/f8efcf23-75eb-43d5-963e-8cf863487526)
+ ![HSV Graph](https://github.com/Beam1pnzaza/WRO.Easykids-OMO/assets/86812911/8e204410-9fe9-4006-a6b5-261e60da5a6c)
 
   **HSV is particularly advantageous in robotics because it separates the color information from brightness, making it more robust in varying lighting conditions.**
   
@@ -135,7 +136,7 @@ In the first step of our color detection technique, we utilize the robot's camer
 
 By obtaining the initial HSV values directly from the real-world environment, we ensure that the robot's color detection is tailored to the specific conditions and lighting present at the time of calibration. This step allows for customization of the color range and sets the foundation for accurate color detection in subsequent stages.
 
-![Screenshot 2023-08-01 145657](https://github.com/Beam1pnzaza/WRO.Easykids-OMO/assets/86812911/31fc710f-22d4-4542-8c39-61e1cfcebd93)
+![Screenshot 2023-08-01 145657](https://github.com/Beam1pnzaza/WRO.Easykids-OMO/assets/86812911/a4eee132-a4a7-44b0-8824-f218219277ed)
 
 ### ▶️ Step 2: Fine-Tuning HSV Values with Thresholding
 The second step in our color detection technique involves fine-tuning the initially obtained HSV values to optimize the detection accuracy. To achieve this, we implement a user interface that displays the live camera feed along with adjustable slide bars representing the HSV thresholds. The operator can now iteratively adjust these slide bars to modify the HSV range and fine-tune the color detection process.
@@ -146,7 +147,7 @@ Through this iterative process, the operator can visually assess the detection p
 
 Once the operator achieves an optimal HSV range that accurately detects the desired color, the fine-tuned HSV values are saved. These refined HSV thresholds will be used in the robot's while loop to continuously process the camera feed, enabling real-time color detection during the robot's operation
 
-![Screenshot 2023-08-01 150627](https://github.com/Beam1pnzaza/WRO.Easykids-OMO/assets/86812911/9117b454-a5c2-4952-9235-0ef24d3c305f)
+![Screenshot 2023-08-01 150627](https://github.com/Beam1pnzaza/WRO.Easykids-OMO/assets/86812911/328832e0-6c63-43e2-b818-b94ca4ef029a)
 
 **In conclusion, the two-step technique of obtaining initial HSV values and fine-tuning them through thresholding empowers our robot with accurate and adaptable color recognition capabilities. By customizing the color detection process to the specific environment and adjusting it in real-time, our robot can reliably identify the desired color, making informed decisions and executing tasks effectively in diverse scenarios. The combination of initial HSV values and fine-tuning ensures that our robot remains versatile and responsive to changes, allowing it to excel in a wide range of applications where accurate color detection is essential.**
 
@@ -162,7 +163,7 @@ Our algorithm is crafted to achieve stable and efficient control for our robot i
 - **(7)__Efficient Execution:**  The architecture of our algorithm prioritizes efficiency, employing streamlined data structures and algorithms to minimize computational overhead and memory usage. This efficiency empowers the robot to respond promptly and execute tasks with minimal latency.
 - **(8)__Real-Time Processing:** Our algorithm is engineered for real-time processing, ensuring instantaneous responses to shifting conditions. This real-time adaptability underscores the robot's agility and responsiveness throughout the competition.
 - **(9)__Efficient Resource Management:**  Our algorithm prioritizes efficient utilization of computational resources, employing optimized data structures and algorithms to minimize both processing time and memory usage. This approach ensures that the robot can swiftly execute tasks while conserving energy, ultimately enhancing its endurance and performance throughout the competition. 
-![1  Color Detection using HSV (1)](https://github.com/Beam1pnzaza/WRO.Easykids-OMO/assets/86812911/77a5658a-ab71-4e96-9483-e601fff9bd48)
+![1  Color Detection using HSV (1)](https://github.com/Beam1pnzaza/WRO.Easykids-OMO/assets/86812911/53ad94e1-ee40-459e-b1da-d3111eee6876)
 
 **In conclusion, our Algorithm Development of Code combines color detection using HSV values and gyroscopic stabilization to achieve stable and efficient robotics control. This approach allows our robot to navigate accurately and make informed decisions, enhancing its performance in the WRO competition.**
 
@@ -181,7 +182,7 @@ Testing emerged as the bedrock of our iterative problem-solving process. Weeks 7
 
 As the competition drew near, we intensified our practice and fine-tuning endeavors. The persistent cycle of testing and refining bolstered our robot's capabilities, instilling confidence in its performance while enhancing color detection precision and motion control finesse.
 
-![367938985_986440615971759_5821972955274805029_n](https://github.com/Beam1pnzaza/WRO.Easykids-OMO/assets/86812911/09c9e878-011e-4a1a-9569-25cf509ed0b0)
+![367938985_986440615971759_5821972955274805029_n (1)](https://github.com/Beam1pnzaza/WRO.Easykids-OMO/assets/86812911/a55dd7d9-84cc-4527-82f0-7652eb26d652)
 
 **In conclusion, the process of finding problems, making solutions, and rigorous testing allowed us to create a robust and reliable robot for the WRO competition. The combination of iterative problem-solving, continuous improvement, and extensive testing has been instrumental in enhancing our robot's abilities and ensuring its readiness for the competition.**
 
