@@ -89,7 +89,7 @@ An RGB sensor is specifically designed to detect and differentiate colors. It co
  RGB sensors are often compact and lightweight, which is essential for mobile robots like those used in WRO competitions. The sensor's size and weight won't impede the robot's movement or agility.
 
 ![2wv5kx](https://github.com/Beam1pnzaza/WRO.Easykids-OMO/assets/86812911/e931ca08-8916-479b-8ff0-b16fa8ab35b4)
-38d3f5)
+
 ### ▶️Camera with OpenCV:
 Using a camera with OpenCV for color detection provides additional capabilities and flexibility compared to an RGB sensor. OpenCV is an open-source computer vision and image processing library that allows robots to process visual information from a camera. Here are the advantages of using a camera with OpenCV:
 
@@ -115,7 +115,6 @@ In fast-paced competitions like WRO, real-time processing is crucial. The camera
  Using OpenCV and a camera provides versatility for future challenges beyond WRO. My team can explore various computer vision tasks and expand the robot's capabilities in other robotics projects.
 
 ![Screenshot 2023-08-01 140550](https://github.com/Beam1pnzaza/WRO.Easykids-OMO/assets/86812911/f0a4aa7e-aa4f-4605-8e97-9998ff7505aa)
-2a0-e3d1271ee80b)
 
 **In conclusion, while an RGB sensor has its advantages, the camera with OpenCV offers superior performance, real-time processing, and more advanced color range and object detection capabilities. These factors make it the better choice for color detection in your WRO robot, giving my team a competitive edge in the competition and setting the stage for future robotics endeavors.**
 
@@ -183,7 +182,7 @@ Testing emerged as the bedrock of our iterative problem-solving process. Weeks 7
 
 As the competition drew near, we intensified our practice and fine-tuning endeavors. The persistent cycle of testing and refining bolstered our robot's capabilities, instilling confidence in its performance while enhancing color detection precision and motion control finesse.
 
-![367938985_986440615971759_5821972955274805029_n](https://github.com/Beam1pnzaza/WRO.Easykids-OMO/assets/86812911/867f148a-fd7d-4d5f-90fd-05d618f26065)
+![367938985_986440615971759_5821972955274805029_n (1)](https://github.com/Beam1pnzaza/WRO.Easykids-OMO/assets/86812911/a55dd7d9-84cc-4527-82f0-7652eb26d652)
 
 **In conclusion, the process of finding problems, making solutions, and rigorous testing allowed us to create a robust and reliable robot for the WRO competition. The combination of iterative problem-solving, continuous improvement, and extensive testing has been instrumental in enhancing our robot's abilities and ensuring its readiness for the competition.**
 
