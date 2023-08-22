@@ -69,6 +69,8 @@ The robot's electric circuit serves as its power and control hub, functioning li
 Think of the circuit as a team of workers. The CPU is the boss, batteries provide energy, motors enable motion, and a sensor prevents collisions.
 The circuit also features software for color and shape recognition.
 These parts connect with wires and safety features. In essence, the electric circuit makes the robot smart, robust, and primed for challenges in the World Robot Olympiad.
+![367947293_676877004501462_5905190916775027126_n](https://github.com/Beam1pnzaza/WRO.Easykids-OMO/assets/86812911/676a0a80-1249-444d-a9e4-79c5b7153d33)
+
 #
 ## 🚦4. Selection Color Sensor🌈
 Choosing the right sensor for color detection in a robotics competition like the World Robot Olympiad (WRO) is a critical decision that can significantly impact the robot's performance and success. In this case, my team has two options: an RGB sensor and a camera with OpenCV. Both options have their strengths and weaknesses, and it's essential to weigh them carefully before making a final decision.
