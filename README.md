@@ -173,7 +173,6 @@ Throughout the iterative process of finding problems and making solutions, testi
 
 As we neared the competition, we further practiced and fine-tuned the robot's capabilities. The continuous testing and refinement allowed us to gain confidence in our robot's performance and optimize its color detection and motion control.
 
-![1  Color Detection using HSV (1)](https://github.com/Beam1pnzaza/WRO.Easykids-OMO/assets/86812911/a780fda1-62c2-4ac4-9e3a-373cca674f02)
 
 **In conclusion, the process of finding problems, making solutions, and rigorous testing allowed us to create a robust and reliable robot for the WRO competition. The combination of iterative problem-solving, continuous improvement, and extensive testing has been instrumental in enhancing our robot's abilities and ensuring its readiness for the competition.**
 
