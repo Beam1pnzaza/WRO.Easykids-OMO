@@ -56,6 +56,8 @@ Our journey to the WRO competition taught us the importance of teamwork, perseve
  ## 🤖3.How Robot Work 👷
 The robot operates through a sophisticated program that harnesses the capabilities of various sensors and technologies for enhanced navigation and performance. It incorporates DC motors for driving and servo motors for precise turns, while leveraging OpenCV for color detection. This enables the robot to not only detect the distance of the line but also identify specific colors like blue and orange, influencing its path and trajectory. The integration of an ultrasonic sensor adds another layer of functionality, allowing the robot to detect obstacles and edges with precision. With the recent incorporation of a gyroscope, the robot achieves heightened stability and agility during maneuvers, ensuring rapid yet controlled rotations. In a seamless fusion of motor control, real-time image processing, ultrasonic detection, and gyroscopic stability, our robot adeptly navigates the competition arena. It responds promptly to traffic signs, executes quick adjustments when encountering obstacles, and consistently follows its designated path. This meticulously engineered program positions our robot as a formidable contender, poised to excel in the dynamic challenges of the World Robot Olympiad competition.
 
+![Distance Detection](https://github.com/Beam1pnzaza/WRO.Easykids-OMO/assets/86812911/c47919d8-548b-40bb-b00c-df546a4f44dc)
+
 ### ⚡Electric Curcuit : l
 The robot's electric circuit is like its power and control system. It's like the robot's brain and heart combined. The circuit includes a special computer (CPU) that sends signals to different parts of the robot. These signals make the robot's wheels move and help it turn accurately.
 
