@@ -59,7 +59,7 @@ Our journey to the WRO competition taught us the importance of teamwork, perseve
 The robot operates through a sophisticated program that harnesses the capabilities of various sensors and technologies for enhanced navigation and performance. It incorporates DC motors for driving and servo motors for precise turns, while leveraging OpenCV for color detection. This enables the robot to not only detect the distance of the line but also identify specific colors like blue and orange, influencing its path and trajectory. The integration of an ultrasonic sensor adds another layer of functionality, allowing the robot to detect obstacles and edges with precision. 
 In a seamless fusion of motor control, real-time image processing, and ultrasonic detection, our robot adeptly navigates the competition arena. It responds promptly to traffic signs, executes quick adjustments when encountering obstacles, and consistently follows its designated path. This meticulously engineered program positions our robot as a formidable contender, poised to excel in the dynamic challenges of the World Robot Olympiad competition.
 
-![Distance Detection](https://github.com/Beam1pnzaza/WRO.Easykids-OMO/assets/86812911/c47919d8-548b-40bb-b00c-df546a4f44dc)
+![Distance Detection (1)](https://github.com/Beam1pnzaza/WRO.Easykids-OMO/assets/86812911/25cfa992-a317-486b-a02f-b374c1cd68e9)
 
 ### ⚡Electric Curcuit : 
 The robot's electric circuit serves as its power and control hub, functioning like both its brain and heart. It's guided by a CPU, sending signals to different parts for movement and precision turning.
