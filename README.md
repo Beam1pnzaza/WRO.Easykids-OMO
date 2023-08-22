@@ -1,6 +1,6 @@
 # Team Easykids-OMO 
-[![logo_EasyKids_re2](https://github.com/Beam1pnzaza/WRO.Easykids-OMO/assets/86812911/69b41d62-23bd-4415-baf0-bb4b772216d2)
-](https://cdn.discordapp.com/attachments/905013540883152896/966006065747611678/unknown.png)### **Team member :**  
+![logo_EasyKids_re2](https://github.com/Beam1pnzaza/WRO.Easykids-OMO/assets/86812911/e7f93587-e5ba-4728-b23f-1a132cdfa971)
+### **Team member :**  
 **------------🛠1-Papangkorn Nirawatsuwan---------------🛠2-Auttanon Jakkawarn--------------------🛠3-Noraprot Aunnahajak---------------**
 
 ![welcome (1)](https://github.com/Beam1pnzaza/WRO.Easykids-OMO/assets/86812911/69148032-6f1a-46fd-9a52-606b9a6c6a7f)
