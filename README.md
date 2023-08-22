@@ -154,7 +154,7 @@ Our algorithm is crafted to achieve stable and efficient control for our robot i
 - **(7)__Efficient Execution:**  The architecture of our algorithm prioritizes efficiency, employing streamlined data structures and algorithms to minimize computational overhead and memory usage. This efficiency empowers the robot to respond promptly and execute tasks with minimal latency.
 - **(8)__Real-Time Processing:** Our algorithm is engineered for real-time processing, ensuring instantaneous responses to shifting conditions. This real-time adaptability underscores the robot's agility and responsiveness throughout the competition.
 - **(9)__Efficient Resource Management:**  Our algorithm prioritizes efficient utilization of computational resources, employing optimized data structures and algorithms to minimize both processing time and memory usage. This approach ensures that the robot can swiftly execute tasks while conserving energy, ultimately enhancing its endurance and performance throughout the competition. 
-![1  Color Detection using HSV](https://github.com/Beam1pnzaza/WRO.Easykids-OMO/assets/86812911/4bac3af5-2a08-418d-ae6f-bb16a446b702)
+![1  Color Detection using HSV (1)](https://github.com/Beam1pnzaza/WRO.Easykids-OMO/assets/86812911/77a5658a-ab71-4e96-9483-e601fff9bd48)
 
 **In conclusion, our Algorithm Development of Code combines color detection using HSV values and gyroscopic stabilization to achieve stable and efficient robotics control. This approach allows our robot to navigate accurately and make informed decisions, enhancing its performance in the WRO competition.**
 
